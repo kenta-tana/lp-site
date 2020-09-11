@@ -103,7 +103,6 @@ input, select {
 
 /*ここから*/
 .fab .fa-twitter{
-    background-color: #1b95e0;
     white-space: nowrap;
 }
 
@@ -111,6 +110,7 @@ input, select {
     padding: 1px 8px;
     margin-bottm: 10px;
     margin-left: 3px;
+    background-color: #1b95e0;
 }
 
 body{
