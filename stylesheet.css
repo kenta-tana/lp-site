@@ -102,6 +102,12 @@ input, select {
 }
 
 /*ここから*/
+.fab .fa-twitter{
+    background-color: #1b95e0;
+    margin-left: 3px;
+    white-space: nowrap;
+}
+
 body{
     font-family: 'Hiragino Kaku Gothic Pro',sans-serif;
 }
