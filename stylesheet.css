@@ -721,6 +721,10 @@ span.block6-yellow-txt{
     margin-top: -190px;
 }
 
+.block10 .container{
+    width: 1600px;
+}
+
 .block10-yellow-box{
     padding: 40px 0;
     background-color: #ebb94d;
