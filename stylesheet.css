@@ -106,6 +106,7 @@ input, select {
     background-color: #1b95e0;
     margin-left: 3px;
     white-space: nowrap;
+    padding: 1px 8px;
 }
 
 body{
