@@ -114,6 +114,7 @@ input, select {
     color: #ffffff;
     width: 60.125px;
     font-size: 5px;
+    border-radius: 3px;
 }
 
 body{
