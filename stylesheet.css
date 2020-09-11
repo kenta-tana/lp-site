@@ -104,10 +104,13 @@ input, select {
 /*ここから*/
 .fab .fa-twitter{
     background-color: #1b95e0;
-    margin-left: 3px;
     white-space: nowrap;
+}
+
+.twitter-1{
     padding: 1px 8px;
     margin-bottm: 10px;
+    margin-left: 3px;
 }
 
 body{
