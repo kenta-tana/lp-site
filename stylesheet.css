@@ -108,11 +108,10 @@ input, select {
 
 .twitter-1{
     padding: 1px 8px;
-    margin-bottm: 10px;
     margin-left: 3px;
     background-color: #1b95e0;
     color: #ffffff;
-    width: 10px;
+    width: 30px;
     font-size: 5px;
     border-radius: 3px;
 }
