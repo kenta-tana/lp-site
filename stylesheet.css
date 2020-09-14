@@ -737,6 +737,10 @@ span.block6-yellow-txt{
     margin-top: -190px;
 }
 
+.block10-circle{
+    text-align: center;
+}
+
 .block10-yellow-box{
     padding: 40px 0;
     background-color: #ebb94d;
@@ -767,6 +771,7 @@ span.block6-yellow-txt{
     width: 860px;
     margin: 0 auto;
     padding: 15px 30px;
+    text-align: center;
 }
 
 .block10-question::before, .block10-question::after{
