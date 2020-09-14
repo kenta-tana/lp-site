@@ -121,6 +121,16 @@ input, select {
     border-radius: 3px;
 }
 
+.twitter-2{
+    padding: 3px 8px 1px 6px;
+    height: 20px;
+    background-color: #1b95e0;
+    color: #ffffff;
+    width: 80px;
+    font-size: 7px;
+    border-radius: 3px;
+}
+
 .block2 .container{
     height: 100%;
 }
