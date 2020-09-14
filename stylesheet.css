@@ -694,7 +694,8 @@ span.block6-yellow-txt{
     margin: 20px 0 10px 0;
     font-weight: 500;
     display: flex;
-    text-align: center;
+    width: 100%;
+    margin: auto;
 }
 
 .block9-first2 p{
