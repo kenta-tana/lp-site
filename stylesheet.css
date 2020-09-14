@@ -142,7 +142,7 @@ input, select {
     position: relative;
 }
 
-h4 .far fa-question-circle{
+.panel-title h4{
     color: #016ea9;
 }
 
