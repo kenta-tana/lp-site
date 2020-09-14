@@ -173,7 +173,8 @@ a{
 }
 
 .header-img{
-    height: 5em;
+    height: 44.641px;
+    width: 128px;
 }
 
 .header1{
@@ -217,6 +218,26 @@ header{
     background-size: cover;
     background-position: center;
     color: #333333;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.block1 .container h2{
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.block1 .container h3{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.isara-logo-large{
+    width: 317px;
+    margin-bottom: 20px;
 }
 
 .block2{
