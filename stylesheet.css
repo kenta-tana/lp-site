@@ -693,6 +693,7 @@ span.block6-yellow-txt{
     font-size: 18px;
     margin: 20px 0 10px 0;
     font-weight: 500;
+    display: flex;
 }
 
 .block9-first2 p{
@@ -956,6 +957,9 @@ span.block6-yellow-txt{
     padding: 40px 0;
 }
 
+.block12{    
+    display: flex;
+}
 .block12-first h2{
     font-size: 28px;
     font-weight: 600;
@@ -1322,6 +1326,10 @@ textarea{
     font-size: 28px;
     font-weight: 600;
     margin: 20px 0 40px;
+}
+
+.panel-title{
+    display: flex;
 }
 
 .panel-title h4{
