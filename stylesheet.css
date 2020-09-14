@@ -218,9 +218,7 @@ header{
     background-size: cover;
     background-position: center;
     color: #333333;
-    display: table-cell;
-    vertical-align: middle;
-    text-align: center;
+    
 }
 
 .block1 .container h2{
