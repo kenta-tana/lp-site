@@ -218,19 +218,26 @@ header{
     background-size: cover;
     background-position: center;
     color: #333333;
-    
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .block1 .container h2{
     font-size: 28px;
     font-weight: 600;
     margin-bottom: 10px;
+    width: 100%;
+    text-align: center;
 }
 
 .block1 .container h3{
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 10px;
+    width: 100%;
+    text-align: center;
 }
 
 .isara-logo-large{
