@@ -122,6 +122,9 @@ input, select {
 }
 
 .twitter-2{
+    position: absolute;
+    bottom: 0;
+    left: 438px;
     padding: 3px 8px 1px 6px;
     height: 20px;
     background-color: #1b95e0;
@@ -1361,4 +1364,5 @@ footer{
 .footer-snslist{
     font-size: 14px;
     margin-bottom: 30px;
+    position: relative;
 }
