@@ -694,6 +694,7 @@ span.block6-yellow-txt{
     margin: 20px 0 10px 0;
     font-weight: 500;
     display: flex;
+    ttext-align: center;
 }
 
 .block9-first2 p{
@@ -1328,9 +1329,6 @@ textarea{
     margin: 20px 0 40px;
 }
 
-.panel-title{
-    display: flex;
-}
 
 .panel-title h4{
     padding: 20px 20px;
